@@ -14,7 +14,7 @@ if sys.version_info < (2, 6):
 
 setup(
     name='gyun-sdk',
-    version='1.1.2',
+    version='1.1.2.1',
     description='Software Development Kit for GYUN.',
     long_description=open('README.rst', 'rb').read().decode('utf-8'),
     keywords='gyun iaas gomestor sdk',
