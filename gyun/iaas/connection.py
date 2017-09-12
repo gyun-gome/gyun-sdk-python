@@ -39,7 +39,7 @@ class APIConnection(HttpConnection):
     req_checker = RequestChecker()
 
     def __init__(self, qy_access_key_id, qy_secret_access_key, zone,
-                 host="api.qc.gyun.com", port=443, protocol="https",
+                 host="api.qc.gyun.com", port=80, protocol="http",
                  pool=None, expires=None,
                  retry_time=2, http_socket_timeout=60, debug=False):
         """
