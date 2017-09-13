@@ -20,7 +20,7 @@ setup(
     keywords='gyun iaas gomestor sdk',
     author='GYUN Team',
     author_email='service@gomeholdings.com',
-    url='https://docs.qc.gyun.com/sdk/',
+    url='http://docs.qc.gyun.com/sdk/',
     packages=['gyun', 'gyun.conn', 'gyun.iaas',
               'gyun.misc', 'gyun.gomestor'],
     package_dir={'gyun-sdk': 'gyun'},

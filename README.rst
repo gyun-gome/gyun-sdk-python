@@ -11,7 +11,7 @@ This SDK is licensed under
 .. note::
   Requires Python 2.6 or higher, compatible with Python 3,
   for more information please see
-  `GYUN SDK Documentation <https://docs.qc.gyun.com/sdk/>`_
+  `GYUN SDK Documentation <http://docs.qc.gyun.com/sdk/>`_
 
 
 ------------
